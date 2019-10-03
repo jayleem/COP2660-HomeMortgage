@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mortgage Loan Interest</string>
+    <string name="textHeader">Home Mortgage Interest</string>
+    <string name="btnCompute">COMPUTE INTEREST</string>
+    <string name="monthlyPayment">Monthly Payment</string>
+    <string name="numYears">Number of years</string>
+    <string name="principal">Initial principal amount of loan</string>
+    <string name="footerDesc">logo</string>
+    <string name="imgDesc">image</string>
+</resources>
